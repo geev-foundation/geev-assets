@@ -1,0 +1,32 @@
+{
+  "name": "geev-web-resources",
+  "version": "3.8.5",
+  "description": "geev assets",
+  "main": "Geev/Framework/scripts/geev.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.5.2",
+    "xml2js": "^0.4.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geev-foundation/geev-assets.git"
+  },
+  "keywords": [
+    
+    "web",
+	"assets"
+    
+  ],
+  "author": "SaeedSalehi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geev-foundation/geev-assets/issues"
+  },
+  "homepage": "http://www.geev.io/"
+}

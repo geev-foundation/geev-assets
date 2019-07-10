@@ -1,0 +1,27 @@
+{
+  "name": "geev-web-resources",
+  "homepage": "http://www.geev.io/",
+  "authors": [
+    "SaeedSalehi"
+  ],
+  "version": "v3.8.5",
+  "description": "Script and style resources for geev based web projects.",
+  "main": "Geev/Framework/scripts/geev.js",
+  "moduleType": [],
+  "keywords": [
+    
+    "web",
+    "framework",
+    
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".nuget",
+    "packages"
+  ]
+}
