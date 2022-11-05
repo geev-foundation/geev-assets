@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {
     "del": "^2.2.0",
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.2",
     "gulp-shell": "^0.5.2",
     "xml2js": "^0.4.16"
   },
